@@ -1,0 +1,27 @@
+.over {
+    width: 1000px;
+    height: 300 px;
+    border: 5px rgb(61, 47, 47) solid;
+    padding: 50px;
+    margin: 50px;
+    background-image: linear-gradient(to right, green, white 50%,  red);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-clip: border-box;
+
+}
+
+.letras {
+    color: rgb(61, 0, 0);
+}
+
+body{
+    margin: 0;
+}
+
+.Escudo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
